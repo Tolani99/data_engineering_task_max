@@ -1,3 +1,6 @@
+"10.What are the specialization and the graduation degree type of the majority of the top 10 candidates placed, based on salary?
+To answer this question using visualization tools, we can create a bar chart or a pie chart showing the distribution of the top 10 candidates placed by their specialization and graduation degree type.
+"""
 # Import basic module
 from basic_module import df
 from basic_module import plt

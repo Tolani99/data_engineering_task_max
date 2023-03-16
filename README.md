@@ -34,3 +34,5 @@ To determine this, we need to filter the dataset to only include placed candidat
 
 9. What are the specialization and the graduation degree type of the majority of the top 10 candidates placed, based on salary?
 To determine this, we need to filter the dataset to only include placed candidates, then sort the data by salary in descending
+
+10. To answer this question using visualization tools, we can create a bar chart or a pie chart showing the distribution of the top 10 candidates placed by their specialization and graduation degree type.
